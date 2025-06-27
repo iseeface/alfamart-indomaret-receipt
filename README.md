@@ -16,6 +16,7 @@ This is a Python-based application that mimics the style and layout of receipts 
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
 - [Development](#-development)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -74,6 +75,23 @@ project/
 ├── setup.py              # Installation metadata
 ├── README.md             # Project documentation
 ```
+---
+
+## 📸 Screenshots
+
+### GUI Preview
+<p align="center">
+  <img src=".github/assets/apps.webp" alt="App Screenshot" width="600">
+</p>
+
+> *This is a preview of the main application window where users can input store details and add receipt items.*
+
+### Sample Receipt Output
+<p align="center">
+  <img src=".github/assets/output.webp" alt="Receipt Output" width="600">
+</p>
+
+> *A sample of the generated PDF receipt formatted to 80mm width, similar to real retail receipts.*
 
 ---
 
