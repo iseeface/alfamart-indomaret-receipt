@@ -12,13 +12,13 @@ This is a Python-based application that mimics the style and layout of receipts 
 
 ## 📋 Table of Contents
 
-- [Features](#⚙️features)
-- [Installation](#🛠installation)
-- [Usage](#🛠usage)
-- [Project Structure](#📁project-structure)
-- [Development](#📌development)
-- [Contributing](#🤝contributing)
-- [License](#📜license)
+- [Features](#%EF%B8%8F-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Development](#-development)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
