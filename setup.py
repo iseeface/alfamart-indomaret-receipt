@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="struk-generator",
+    name="alfamart-indomaret-receipt",
     version="1.0.0",
-    author="Your Name",
-    description="Receipt generator GUI for Alfamart/Indomaret-style layout.",
+    author="Farahat",
+    description="Generate printable Alfamart/Indomaret-style receipts with a simple Python GUI and PDF output.",
     packages=find_packages(),
     install_requires=[
         "fpdf==1.7.2"
@@ -12,7 +12,7 @@ setup(
     include_package_data=True,
     entry_points={
         "gui_scripts": [
-            "struk-generator=main:main"
+            "salfamart-indomaret-receipt=main:main"
         ]
     },
     classifiers=[
